@@ -1,0 +1,15 @@
+@import './null.scss';
+
+.container{
+  width: 100vw;
+  height: 100vh;
+
+}
+
+body{
+  overflow: hidden !important;
+  background: #833ab4;
+  background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+  background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+}
+
